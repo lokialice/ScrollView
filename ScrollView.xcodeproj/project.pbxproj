@@ -13,6 +13,16 @@
 		61B356D21B15711900899962 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 61B356D11B15711900899962 /* Images.xcassets */; };
 		61B356D51B15711900899962 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 61B356D31B15711900899962 /* LaunchScreen.xib */; };
 		61B356E11B15711900899962 /* ScrollViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61B356E01B15711900899962 /* ScrollViewTests.swift */; };
+		61B356F01B1571F600899962 /* photo1.png in Resources */ = {isa = PBXBuildFile; fileRef = 61B356EA1B1571F600899962 /* photo1.png */; };
+		61B356F11B1571F600899962 /* photo2.png in Resources */ = {isa = PBXBuildFile; fileRef = 61B356EB1B1571F600899962 /* photo2.png */; };
+		61B356F21B1571F600899962 /* photo3.png in Resources */ = {isa = PBXBuildFile; fileRef = 61B356EC1B1571F600899962 /* photo3.png */; };
+		61B356F31B1571F600899962 /* photo4.png in Resources */ = {isa = PBXBuildFile; fileRef = 61B356ED1B1571F600899962 /* photo4.png */; };
+		61B356F41B1571F600899962 /* photo5.png in Resources */ = {isa = PBXBuildFile; fileRef = 61B356EE1B1571F600899962 /* photo5.png */; };
+		61B356F51B1571F600899962 /* slow.png in Resources */ = {isa = PBXBuildFile; fileRef = 61B356EF1B1571F600899962 /* slow.png */; };
+		61B356F71B15A02000899962 /* CustomScrollViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61B356F61B15A02000899962 /* CustomScrollViewController.swift */; };
+		61B356F91B1616D200899962 /* PageScrollViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61B356F81B1616D200899962 /* PageScrollViewController.swift */; };
+		61B356FB1B161D1800899962 /* PeakPageScrollViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61B356FA1B161D1800899962 /* PeakPageScrollViewController.swift */; };
+		61B356FD1B161F2200899962 /* ScrollViewContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61B356FC1B161F2200899962 /* ScrollViewContainer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +46,16 @@
 		61B356DA1B15711900899962 /* ScrollViewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ScrollViewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		61B356DF1B15711900899962 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		61B356E01B15711900899962 /* ScrollViewTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewTests.swift; sourceTree = "<group>"; };
+		61B356EA1B1571F600899962 /* photo1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = photo1.png; sourceTree = "<group>"; };
+		61B356EB1B1571F600899962 /* photo2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = photo2.png; sourceTree = "<group>"; };
+		61B356EC1B1571F600899962 /* photo3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = photo3.png; sourceTree = "<group>"; };
+		61B356ED1B1571F600899962 /* photo4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = photo4.png; sourceTree = "<group>"; };
+		61B356EE1B1571F600899962 /* photo5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = photo5.png; sourceTree = "<group>"; };
+		61B356EF1B1571F600899962 /* slow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = slow.png; sourceTree = "<group>"; };
+		61B356F61B15A02000899962 /* CustomScrollViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomScrollViewController.swift; sourceTree = "<group>"; };
+		61B356F81B1616D200899962 /* PageScrollViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PageScrollViewController.swift; sourceTree = "<group>"; };
+		61B356FA1B161D1800899962 /* PeakPageScrollViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PeakPageScrollViewController.swift; sourceTree = "<group>"; };
+		61B356FC1B161F2200899962 /* ScrollViewContainer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScrollViewContainer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,12 +97,22 @@
 		61B356C71B15711900899962 /* ScrollView */ = {
 			isa = PBXGroup;
 			children = (
+				61B356EA1B1571F600899962 /* photo1.png */,
+				61B356EB1B1571F600899962 /* photo2.png */,
+				61B356EC1B1571F600899962 /* photo3.png */,
+				61B356ED1B1571F600899962 /* photo4.png */,
+				61B356EE1B1571F600899962 /* photo5.png */,
+				61B356EF1B1571F600899962 /* slow.png */,
 				61B356CA1B15711900899962 /* AppDelegate.swift */,
 				61B356CC1B15711900899962 /* ViewController.swift */,
 				61B356CE1B15711900899962 /* Main.storyboard */,
 				61B356D11B15711900899962 /* Images.xcassets */,
 				61B356D31B15711900899962 /* LaunchScreen.xib */,
 				61B356C81B15711900899962 /* Supporting Files */,
+				61B356F61B15A02000899962 /* CustomScrollViewController.swift */,
+				61B356F81B1616D200899962 /* PageScrollViewController.swift */,
+				61B356FA1B161D1800899962 /* PeakPageScrollViewController.swift */,
+				61B356FC1B161F2200899962 /* ScrollViewContainer.swift */,
 			);
 			path = ScrollView;
 			sourceTree = "<group>";
@@ -192,8 +222,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				61B356F31B1571F600899962 /* photo4.png in Resources */,
+				61B356F11B1571F600899962 /* photo2.png in Resources */,
+				61B356F51B1571F600899962 /* slow.png in Resources */,
+				61B356F01B1571F600899962 /* photo1.png in Resources */,
 				61B356D01B15711900899962 /* Main.storyboard in Resources */,
+				61B356F41B1571F600899962 /* photo5.png in Resources */,
 				61B356D51B15711900899962 /* LaunchScreen.xib in Resources */,
+				61B356F21B1571F600899962 /* photo3.png in Resources */,
 				61B356D21B15711900899962 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -212,8 +248,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				61B356F91B1616D200899962 /* PageScrollViewController.swift in Sources */,
+				61B356FB1B161D1800899962 /* PeakPageScrollViewController.swift in Sources */,
 				61B356CD1B15711900899962 /* ViewController.swift in Sources */,
 				61B356CB1B15711900899962 /* AppDelegate.swift in Sources */,
+				61B356F71B15A02000899962 /* CustomScrollViewController.swift in Sources */,
+				61B356FD1B161F2200899962 /* ScrollViewContainer.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

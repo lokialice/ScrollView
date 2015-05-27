@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ScrollView/ViewController.swift"
+            timestampString = "454394022.161954"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ScrollView.ViewController.scrollView.setter : Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UIScrollView&gt;"
+                  moduleName = "ScrollView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpromd102/Documents/Swift/ScrollView/ScrollView/ViewController.swift"
+                  timestampString = "454396561.609769"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ScrollView.ViewController.scrollView.materializeForSet : Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UIScrollView&gt;"
+                  moduleName = "ScrollView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpromd102/Documents/Swift/ScrollView/ScrollView/ViewController.swift"
+                  timestampString = "454396561.610094"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ScrollView.ViewController.init (ScrollView.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; ScrollView.ViewController"
+                  moduleName = "ScrollView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpromd102/Documents/Swift/ScrollView/ScrollView/ViewController.swift"
+                  timestampString = "454396561.610376"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ScrollView.ViewController.init (ScrollView.ViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; ScrollView.ViewController"
+                  moduleName = "ScrollView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpromd102/Documents/Swift/ScrollView/ScrollView/ViewController.swift"
+                  timestampString = "454396561.610871"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
